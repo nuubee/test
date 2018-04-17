@@ -4,4 +4,8 @@
 
 准备一此冲突
 
+<<<<<<< HEAD
 zhanggf 内容
+=======
+master 准备的冲突
+>>>>>>> master
